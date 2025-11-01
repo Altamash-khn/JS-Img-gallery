@@ -1,28 +1,53 @@
-# Image Slider
+# JS Img Gallery
 
-A simple and interactive image slider built using HTML, CSS, and JavaScript. This project allows users to navigate through a series of images with forward and backward navigation buttons. The slider also auto-advances every 5 seconds.
+An interactive image gallery web application built using pure **HTML**, **CSS**, and **JavaScript** — built to showcase dynamic image browsing with responsive design and smooth user interactions.
 
+---
 
-## Preview
+## Live Demo
 
-You can see the  demo live <a href="https://js-img-gallery.vercel.app/" target="_blank">Here</a>
+Check out the live version: [https://js-img-gallery.vercel.app/](https://js-img-gallery.vercel.app/)
 
+---
 
 ## Features
 
-Image Slider: Navigate through a collection of images (7 images in total).
+- Dynamic image grid that adapts to screen size
+- Click/tap to view larger version of images
+- Keyboard / navigation support (e.g., arrow keys) (_if implemented_)
+- Smooth transitions and responsive layout across devices
+- Lightweight: no external frameworks, minimal dependencies
 
-Forward and Backward Navigation: Use the forward and backward arrows to move between images.
+---
 
-Auto-Slide: The slider automatically moves forward every 5 seconds.
+## Tech Stack
 
-Customizable Images: Easily add or replace images in the slider.
+- **HTML5** – Semantic markup for gallery and image elements
+- **CSS3** – Flexbox/Grid layout, media queries for responsiveness, hover/transition effects
+- **JavaScript (Vanilla)** – DOM manipulation, event handling, dynamic image rendering
 
+---
 
-## Tools Used
+## Folder Structure
 
-HTML5: For structuring the page and defining the layout of the image slider.
+<img src="/img/FolderStructure.png" />
 
-CSS3: For styling the page and making the slider responsive.
+## Installation & Setup
 
-JavaScript (Vanilla): To implement the image slider functionality, including the navigation and auto-slide features.
+To run this project locally:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Altamash-khn/JS-Img-gallery.git
+   ```
+
+2. **Navigate into the project directory**:
+
+   ```bash
+   cd JS-Img-gallery
+   ```
+
+3. **Open the project**:
+   - Simply open `index.html` in your browser, **or**
+   - Use the **Live Server** extension in VS Code for real-time reloading.
