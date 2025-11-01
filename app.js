@@ -64,4 +64,4 @@ backwardIcon.addEventListener("click", function (e) {
 
 setInterval(() => {
   moveForward();
-}, 5000);
+}, 3000);
