@@ -13,8 +13,6 @@ Check out the live version: [https://js-img-gallery.vercel.app/](https://js-img-
 ## Features
 
 - Dynamic image grid that adapts to screen size
-- Click/tap to view larger version of images
-- Keyboard / navigation support (e.g., arrow keys) (_if implemented_)
 - Smooth transitions and responsive layout across devices
 - Lightweight: no external frameworks, minimal dependencies
 
